@@ -1,3 +1,6 @@
+Deployed Link: ubiquitous-platypus-e76b2d.netlify.app
+
+
 # speed-typing-checker
 Developed a typing speed test application using JavaScript with dynamic text generation and performance metrics like WPM and accuracy.
 <br>
