@@ -47,3 +47,33 @@ It simulates real typing test environments commonly used in assessments and inte
 •⁠  ⁠Works smoothly across devices
 
 ---
+
+## 🛠️ Tech Stack
+
+| Technology | Usage |
+|----------|------|
+| HTML     | Structure |
+| CSS      | Styling |
+| JavaScript | Logic & Functionality |
+
+---
+
+## 🧠 How It Works
+
+1.⁠ ⁠User clicks on *Start Test*
+2.⁠ ⁠A random paragraph is displayed
+3.⁠ ⁠Timer starts (60 seconds)
+4.⁠ ⁠User types in the input box
+5.⁠ ⁠App calculates:
+   - Number of words typed
+   - Correct characters
+   - Accuracy %
+6.⁠ ⁠When timer ends:
+   - Input is disabled
+   - Final WPM and accuracy are shown
+
+---
+
+## 📊 Formula Used
+
+### 🟢 Words Per Minute (WPM)
