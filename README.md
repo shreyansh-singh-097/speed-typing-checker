@@ -24,3 +24,26 @@ It simulates real typing test environments commonly used in assessments and inte
 
 ---
 
+## 🚀 Features
+
+### 📝 Dynamic Text Generation
+•⁠  ⁠Random paragraph displayed for each test
+•⁠  ⁠Ensures a unique typing experience every time
+
+### ⏱️ Countdown Timer
+•⁠  ⁠60-second timer starts when test begins
+•⁠  ⁠Automatically stops input when time ends
+
+### ⚡ Real-Time Performance Metrics
+•⁠  ⁠*WPM (Words Per Minute)* calculation
+•⁠  ⁠*Accuracy tracking* based on correct characters
+
+### 🎯 Error Handling
+•⁠  ⁠Handles empty input cases
+•⁠  ⁠Prevents invalid calculations
+
+### 💻 Responsive UI
+•⁠  ⁠Clean and minimal design
+•⁠  ⁠Works smoothly across devices
+
+---
