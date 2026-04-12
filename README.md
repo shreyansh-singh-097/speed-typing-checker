@@ -87,3 +87,8 @@ Instead of boring typing tools, I wanted something lightweight and visually enga
 - Timer starts on first keystroke
 - WPM = (characters / 5) / time
 - Accuracy = (correct chars / total chars) * 100
+
+- ## 📚 What I Learned
+- DOM manipulation
+- Event handling in JavaScript
+- Real-time data updates
