@@ -92,3 +92,6 @@ Instead of boring typing tools, I wanted something lightweight and visually enga
 - DOM manipulation
 - Event handling in JavaScript
 - Real-time data updates
+
+- ## 😄 Fun Fact
+Try typing super fast — accuracy will drop 😅
