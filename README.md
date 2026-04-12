@@ -77,3 +77,8 @@ It simulates real typing test environments commonly used in assessments and inte
 ## 📊 Formula Used
 
 ### 🟢 Words Per Minute (WPM)
+
+
+## 💡 Why I Built This
+I created this project to solve a simple problem — improving typing speed in a fun and interactive way. 
+Instead of boring typing tools, I wanted something lightweight and visually engaging.
