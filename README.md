@@ -93,5 +93,10 @@ Instead of boring typing tools, I wanted something lightweight and visually enga
 - Event handling in JavaScript
 - Real-time data updates
 
+- ## 🔮 Future Scope
+- Multiplayer typing race
+- Leaderboard system
+- User login & stats tracking
+
 - ## 😄 Fun Fact
 Try typing super fast — accuracy will drop 😅
