@@ -82,3 +82,8 @@ It simulates real typing test environments commonly used in assessments and inte
 ## 💡 Why I Built This
 I created this project to solve a simple problem — improving typing speed in a fun and interactive way. 
 Instead of boring typing tools, I wanted something lightweight and visually engaging.
+
+## ⚙️ Core Logic
+- Timer starts on first keystroke
+- WPM = (characters / 5) / time
+- Accuracy = (correct chars / total chars) * 100
